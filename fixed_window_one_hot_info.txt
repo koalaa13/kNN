@@ -1,0 +1,1200 @@
+uniform, manhattan, h = 0
+71 out of 178
+uniform, manhattan, h = 1
+147 out of 178
+uniform, manhattan, h = 2
+173 out of 178
+uniform, manhattan, h = 3
+159 out of 178
+uniform, manhattan, h = 4
+89 out of 178
+uniform, manhattan, h = 5
+71 out of 178
+uniform, manhattan, h = 6
+71 out of 178
+uniform, manhattan, h = 7
+71 out of 178
+uniform, manhattan, h = 8
+71 out of 178
+uniform, manhattan, h = 9
+71 out of 178
+uniform, manhattan, h = 10
+71 out of 178
+uniform, manhattan, h = 11
+71 out of 178
+uniform, manhattan, h = 12
+71 out of 178
+uniform, manhattan, h = 13
+71 out of 178
+uniform, manhattan, h = 14
+71 out of 178
+uniform, manhattan, h = 15
+71 out of 178
+uniform, manhattan, h = 16
+71 out of 178
+uniform, manhattan, h = 17
+71 out of 178
+uniform, manhattan, h = 18
+71 out of 178
+uniform, manhattan, h = 19
+71 out of 178
+uniform, euclidean, h = 0
+71 out of 178
+uniform, euclidean, h = 1
+159 out of 178
+uniform, euclidean, h = 2
+71 out of 178
+uniform, euclidean, h = 3
+71 out of 178
+uniform, euclidean, h = 4
+71 out of 178
+uniform, euclidean, h = 5
+71 out of 178
+uniform, euclidean, h = 6
+71 out of 178
+uniform, euclidean, h = 7
+71 out of 178
+uniform, euclidean, h = 8
+71 out of 178
+uniform, euclidean, h = 9
+71 out of 178
+uniform, euclidean, h = 10
+71 out of 178
+uniform, euclidean, h = 11
+71 out of 178
+uniform, euclidean, h = 12
+71 out of 178
+uniform, euclidean, h = 13
+71 out of 178
+uniform, euclidean, h = 14
+71 out of 178
+uniform, euclidean, h = 15
+71 out of 178
+uniform, euclidean, h = 16
+71 out of 178
+uniform, euclidean, h = 17
+71 out of 178
+uniform, euclidean, h = 18
+71 out of 178
+uniform, euclidean, h = 19
+71 out of 178
+uniform, chebyshev, h = 0
+71 out of 178
+uniform, chebyshev, h = 1
+71 out of 178
+uniform, chebyshev, h = 2
+71 out of 178
+uniform, chebyshev, h = 3
+71 out of 178
+uniform, chebyshev, h = 4
+71 out of 178
+uniform, chebyshev, h = 5
+71 out of 178
+uniform, chebyshev, h = 6
+71 out of 178
+uniform, chebyshev, h = 7
+71 out of 178
+uniform, chebyshev, h = 8
+71 out of 178
+uniform, chebyshev, h = 9
+71 out of 178
+uniform, chebyshev, h = 10
+71 out of 178
+uniform, chebyshev, h = 11
+71 out of 178
+uniform, chebyshev, h = 12
+71 out of 178
+uniform, chebyshev, h = 13
+71 out of 178
+uniform, chebyshev, h = 14
+71 out of 178
+uniform, chebyshev, h = 15
+71 out of 178
+uniform, chebyshev, h = 16
+71 out of 178
+uniform, chebyshev, h = 17
+71 out of 178
+uniform, chebyshev, h = 18
+71 out of 178
+uniform, chebyshev, h = 19
+71 out of 178
+triangular, manhattan, h = 0
+71 out of 178
+triangular, manhattan, h = 1
+147 out of 178
+triangular, manhattan, h = 2
+175 out of 178
+triangular, manhattan, h = 3
+172 out of 178
+triangular, manhattan, h = 4
+173 out of 178
+triangular, manhattan, h = 5
+165 out of 178
+triangular, manhattan, h = 6
+146 out of 178
+triangular, manhattan, h = 7
+124 out of 178
+triangular, manhattan, h = 8
+112 out of 178
+triangular, manhattan, h = 9
+105 out of 178
+triangular, manhattan, h = 10
+93 out of 178
+triangular, manhattan, h = 11
+81 out of 178
+triangular, manhattan, h = 12
+76 out of 178
+triangular, manhattan, h = 13
+73 out of 178
+triangular, manhattan, h = 14
+71 out of 178
+triangular, manhattan, h = 15
+71 out of 178
+triangular, manhattan, h = 16
+71 out of 178
+triangular, manhattan, h = 17
+71 out of 178
+triangular, manhattan, h = 18
+71 out of 178
+triangular, manhattan, h = 19
+71 out of 178
+triangular, euclidean, h = 0
+71 out of 178
+triangular, euclidean, h = 1
+170 out of 178
+triangular, euclidean, h = 2
+146 out of 178
+triangular, euclidean, h = 3
+102 out of 178
+triangular, euclidean, h = 4
+75 out of 178
+triangular, euclidean, h = 5
+71 out of 178
+triangular, euclidean, h = 6
+71 out of 178
+triangular, euclidean, h = 7
+71 out of 178
+triangular, euclidean, h = 8
+71 out of 178
+triangular, euclidean, h = 9
+71 out of 178
+triangular, euclidean, h = 10
+71 out of 178
+triangular, euclidean, h = 11
+71 out of 178
+triangular, euclidean, h = 12
+71 out of 178
+triangular, euclidean, h = 13
+71 out of 178
+triangular, euclidean, h = 14
+71 out of 178
+triangular, euclidean, h = 15
+71 out of 178
+triangular, euclidean, h = 16
+71 out of 178
+triangular, euclidean, h = 17
+71 out of 178
+triangular, euclidean, h = 18
+71 out of 178
+triangular, euclidean, h = 19
+71 out of 178
+triangular, chebyshev, h = 0
+71 out of 178
+triangular, chebyshev, h = 1
+143 out of 178
+triangular, chebyshev, h = 2
+80 out of 178
+triangular, chebyshev, h = 3
+71 out of 178
+triangular, chebyshev, h = 4
+71 out of 178
+triangular, chebyshev, h = 5
+71 out of 178
+triangular, chebyshev, h = 6
+71 out of 178
+triangular, chebyshev, h = 7
+71 out of 178
+triangular, chebyshev, h = 8
+71 out of 178
+triangular, chebyshev, h = 9
+71 out of 178
+triangular, chebyshev, h = 10
+71 out of 178
+triangular, chebyshev, h = 11
+71 out of 178
+triangular, chebyshev, h = 12
+71 out of 178
+triangular, chebyshev, h = 13
+71 out of 178
+triangular, chebyshev, h = 14
+71 out of 178
+triangular, chebyshev, h = 15
+71 out of 178
+triangular, chebyshev, h = 16
+71 out of 178
+triangular, chebyshev, h = 17
+71 out of 178
+triangular, chebyshev, h = 18
+71 out of 178
+triangular, chebyshev, h = 19
+71 out of 178
+epanechnikov, manhattan, h = 0
+71 out of 178
+epanechnikov, manhattan, h = 1
+147 out of 178
+epanechnikov, manhattan, h = 2
+175 out of 178
+epanechnikov, manhattan, h = 3
+170 out of 178
+epanechnikov, manhattan, h = 4
+170 out of 178
+epanechnikov, manhattan, h = 5
+145 out of 178
+epanechnikov, manhattan, h = 6
+112 out of 178
+epanechnikov, manhattan, h = 7
+84 out of 178
+epanechnikov, manhattan, h = 8
+74 out of 178
+epanechnikov, manhattan, h = 9
+71 out of 178
+epanechnikov, manhattan, h = 10
+71 out of 178
+epanechnikov, manhattan, h = 11
+71 out of 178
+epanechnikov, manhattan, h = 12
+71 out of 178
+epanechnikov, manhattan, h = 13
+71 out of 178
+epanechnikov, manhattan, h = 14
+71 out of 178
+epanechnikov, manhattan, h = 15
+71 out of 178
+epanechnikov, manhattan, h = 16
+71 out of 178
+epanechnikov, manhattan, h = 17
+71 out of 178
+epanechnikov, manhattan, h = 18
+71 out of 178
+epanechnikov, manhattan, h = 19
+71 out of 178
+epanechnikov, euclidean, h = 0
+71 out of 178
+epanechnikov, euclidean, h = 1
+170 out of 178
+epanechnikov, euclidean, h = 2
+113 out of 178
+epanechnikov, euclidean, h = 3
+71 out of 178
+epanechnikov, euclidean, h = 4
+71 out of 178
+epanechnikov, euclidean, h = 5
+71 out of 178
+epanechnikov, euclidean, h = 6
+71 out of 178
+epanechnikov, euclidean, h = 7
+71 out of 178
+epanechnikov, euclidean, h = 8
+71 out of 178
+epanechnikov, euclidean, h = 9
+71 out of 178
+epanechnikov, euclidean, h = 10
+71 out of 178
+epanechnikov, euclidean, h = 11
+71 out of 178
+epanechnikov, euclidean, h = 12
+71 out of 178
+epanechnikov, euclidean, h = 13
+71 out of 178
+epanechnikov, euclidean, h = 14
+71 out of 178
+epanechnikov, euclidean, h = 15
+71 out of 178
+epanechnikov, euclidean, h = 16
+71 out of 178
+epanechnikov, euclidean, h = 17
+71 out of 178
+epanechnikov, euclidean, h = 18
+71 out of 178
+epanechnikov, euclidean, h = 19
+71 out of 178
+epanechnikov, chebyshev, h = 0
+71 out of 178
+epanechnikov, chebyshev, h = 1
+117 out of 178
+epanechnikov, chebyshev, h = 2
+71 out of 178
+epanechnikov, chebyshev, h = 3
+71 out of 178
+epanechnikov, chebyshev, h = 4
+71 out of 178
+epanechnikov, chebyshev, h = 5
+71 out of 178
+epanechnikov, chebyshev, h = 6
+71 out of 178
+epanechnikov, chebyshev, h = 7
+71 out of 178
+epanechnikov, chebyshev, h = 8
+71 out of 178
+epanechnikov, chebyshev, h = 9
+71 out of 178
+epanechnikov, chebyshev, h = 10
+71 out of 178
+epanechnikov, chebyshev, h = 11
+71 out of 178
+epanechnikov, chebyshev, h = 12
+71 out of 178
+epanechnikov, chebyshev, h = 13
+71 out of 178
+epanechnikov, chebyshev, h = 14
+71 out of 178
+epanechnikov, chebyshev, h = 15
+71 out of 178
+epanechnikov, chebyshev, h = 16
+71 out of 178
+epanechnikov, chebyshev, h = 17
+71 out of 178
+epanechnikov, chebyshev, h = 18
+71 out of 178
+epanechnikov, chebyshev, h = 19
+71 out of 178
+quartic, manhattan, h = 0
+71 out of 178
+quartic, manhattan, h = 1
+147 out of 178
+quartic, manhattan, h = 2
+175 out of 178
+quartic, manhattan, h = 3
+172 out of 178
+quartic, manhattan, h = 4
+174 out of 178
+quartic, manhattan, h = 5
+172 out of 178
+quartic, manhattan, h = 6
+154 out of 178
+quartic, manhattan, h = 7
+134 out of 178
+quartic, manhattan, h = 8
+112 out of 178
+quartic, manhattan, h = 9
+92 out of 178
+quartic, manhattan, h = 10
+79 out of 178
+quartic, manhattan, h = 11
+74 out of 178
+quartic, manhattan, h = 12
+71 out of 178
+quartic, manhattan, h = 13
+71 out of 178
+quartic, manhattan, h = 14
+71 out of 178
+quartic, manhattan, h = 15
+71 out of 178
+quartic, manhattan, h = 16
+71 out of 178
+quartic, manhattan, h = 17
+71 out of 178
+quartic, manhattan, h = 18
+71 out of 178
+quartic, manhattan, h = 19
+71 out of 178
+quartic, euclidean, h = 0
+71 out of 178
+quartic, euclidean, h = 1
+174 out of 178
+quartic, euclidean, h = 2
+152 out of 178
+quartic, euclidean, h = 3
+93 out of 178
+quartic, euclidean, h = 4
+71 out of 178
+quartic, euclidean, h = 5
+71 out of 178
+quartic, euclidean, h = 6
+71 out of 178
+quartic, euclidean, h = 7
+71 out of 178
+quartic, euclidean, h = 8
+71 out of 178
+quartic, euclidean, h = 9
+71 out of 178
+quartic, euclidean, h = 10
+71 out of 178
+quartic, euclidean, h = 11
+71 out of 178
+quartic, euclidean, h = 12
+71 out of 178
+quartic, euclidean, h = 13
+71 out of 178
+quartic, euclidean, h = 14
+71 out of 178
+quartic, euclidean, h = 15
+71 out of 178
+quartic, euclidean, h = 16
+71 out of 178
+quartic, euclidean, h = 17
+71 out of 178
+quartic, euclidean, h = 18
+71 out of 178
+quartic, euclidean, h = 19
+71 out of 178
+quartic, chebyshev, h = 0
+71 out of 178
+quartic, chebyshev, h = 1
+153 out of 178
+quartic, chebyshev, h = 2
+76 out of 178
+quartic, chebyshev, h = 3
+71 out of 178
+quartic, chebyshev, h = 4
+71 out of 178
+quartic, chebyshev, h = 5
+71 out of 178
+quartic, chebyshev, h = 6
+71 out of 178
+quartic, chebyshev, h = 7
+71 out of 178
+quartic, chebyshev, h = 8
+71 out of 178
+quartic, chebyshev, h = 9
+71 out of 178
+quartic, chebyshev, h = 10
+71 out of 178
+quartic, chebyshev, h = 11
+71 out of 178
+quartic, chebyshev, h = 12
+71 out of 178
+quartic, chebyshev, h = 13
+71 out of 178
+quartic, chebyshev, h = 14
+71 out of 178
+quartic, chebyshev, h = 15
+71 out of 178
+quartic, chebyshev, h = 16
+71 out of 178
+quartic, chebyshev, h = 17
+71 out of 178
+quartic, chebyshev, h = 18
+71 out of 178
+quartic, chebyshev, h = 19
+71 out of 178
+triweight, manhattan, h = 0
+71 out of 178
+triweight, manhattan, h = 1
+147 out of 178
+triweight, manhattan, h = 2
+173 out of 178
+triweight, manhattan, h = 3
+172 out of 178
+triweight, manhattan, h = 4
+173 out of 178
+triweight, manhattan, h = 5
+174 out of 178
+triweight, manhattan, h = 6
+171 out of 178
+triweight, manhattan, h = 7
+154 out of 178
+triweight, manhattan, h = 8
+141 out of 178
+triweight, manhattan, h = 9
+118 out of 178
+triweight, manhattan, h = 10
+105 out of 178
+triweight, manhattan, h = 11
+89 out of 178
+triweight, manhattan, h = 12
+79 out of 178
+triweight, manhattan, h = 13
+74 out of 178
+triweight, manhattan, h = 14
+73 out of 178
+triweight, manhattan, h = 15
+71 out of 178
+triweight, manhattan, h = 16
+71 out of 178
+triweight, manhattan, h = 17
+71 out of 178
+triweight, manhattan, h = 18
+71 out of 178
+triweight, manhattan, h = 19
+71 out of 178
+triweight, euclidean, h = 0
+71 out of 178
+triweight, euclidean, h = 1
+174 out of 178
+triweight, euclidean, h = 2
+168 out of 178
+triweight, euclidean, h = 3
+118 out of 178
+triweight, euclidean, h = 4
+79 out of 178
+triweight, euclidean, h = 5
+71 out of 178
+triweight, euclidean, h = 6
+71 out of 178
+triweight, euclidean, h = 7
+71 out of 178
+triweight, euclidean, h = 8
+71 out of 178
+triweight, euclidean, h = 9
+71 out of 178
+triweight, euclidean, h = 10
+71 out of 178
+triweight, euclidean, h = 11
+71 out of 178
+triweight, euclidean, h = 12
+71 out of 178
+triweight, euclidean, h = 13
+71 out of 178
+triweight, euclidean, h = 14
+71 out of 178
+triweight, euclidean, h = 15
+71 out of 178
+triweight, euclidean, h = 16
+71 out of 178
+triweight, euclidean, h = 17
+71 out of 178
+triweight, euclidean, h = 18
+71 out of 178
+triweight, euclidean, h = 19
+71 out of 178
+triweight, chebyshev, h = 0
+71 out of 178
+triweight, chebyshev, h = 1
+162 out of 178
+triweight, chebyshev, h = 2
+88 out of 178
+triweight, chebyshev, h = 3
+71 out of 178
+triweight, chebyshev, h = 4
+71 out of 178
+triweight, chebyshev, h = 5
+71 out of 178
+triweight, chebyshev, h = 6
+71 out of 178
+triweight, chebyshev, h = 7
+71 out of 178
+triweight, chebyshev, h = 8
+71 out of 178
+triweight, chebyshev, h = 9
+71 out of 178
+triweight, chebyshev, h = 10
+71 out of 178
+triweight, chebyshev, h = 11
+71 out of 178
+triweight, chebyshev, h = 12
+71 out of 178
+triweight, chebyshev, h = 13
+71 out of 178
+triweight, chebyshev, h = 14
+71 out of 178
+triweight, chebyshev, h = 15
+71 out of 178
+triweight, chebyshev, h = 16
+71 out of 178
+triweight, chebyshev, h = 17
+71 out of 178
+triweight, chebyshev, h = 18
+71 out of 178
+triweight, chebyshev, h = 19
+71 out of 178
+tricube, manhattan, h = 0
+71 out of 178
+tricube, manhattan, h = 1
+147 out of 178
+tricube, manhattan, h = 2
+173 out of 178
+tricube, manhattan, h = 3
+172 out of 178
+tricube, manhattan, h = 4
+174 out of 178
+tricube, manhattan, h = 5
+170 out of 178
+tricube, manhattan, h = 6
+147 out of 178
+tricube, manhattan, h = 7
+114 out of 178
+tricube, manhattan, h = 8
+83 out of 178
+tricube, manhattan, h = 9
+74 out of 178
+tricube, manhattan, h = 10
+73 out of 178
+tricube, manhattan, h = 11
+71 out of 178
+tricube, manhattan, h = 12
+71 out of 178
+tricube, manhattan, h = 13
+71 out of 178
+tricube, manhattan, h = 14
+71 out of 178
+tricube, manhattan, h = 15
+71 out of 178
+tricube, manhattan, h = 16
+71 out of 178
+tricube, manhattan, h = 17
+71 out of 178
+tricube, manhattan, h = 18
+71 out of 178
+tricube, manhattan, h = 19
+71 out of 178
+tricube, euclidean, h = 0
+71 out of 178
+tricube, euclidean, h = 1
+174 out of 178
+tricube, euclidean, h = 2
+142 out of 178
+tricube, euclidean, h = 3
+74 out of 178
+tricube, euclidean, h = 4
+71 out of 178
+tricube, euclidean, h = 5
+71 out of 178
+tricube, euclidean, h = 6
+71 out of 178
+tricube, euclidean, h = 7
+71 out of 178
+tricube, euclidean, h = 8
+71 out of 178
+tricube, euclidean, h = 9
+71 out of 178
+tricube, euclidean, h = 10
+71 out of 178
+tricube, euclidean, h = 11
+71 out of 178
+tricube, euclidean, h = 12
+71 out of 178
+tricube, euclidean, h = 13
+71 out of 178
+tricube, euclidean, h = 14
+71 out of 178
+tricube, euclidean, h = 15
+71 out of 178
+tricube, euclidean, h = 16
+71 out of 178
+tricube, euclidean, h = 17
+71 out of 178
+tricube, euclidean, h = 18
+71 out of 178
+tricube, euclidean, h = 19
+71 out of 178
+tricube, chebyshev, h = 0
+71 out of 178
+tricube, chebyshev, h = 1
+150 out of 178
+tricube, chebyshev, h = 2
+71 out of 178
+tricube, chebyshev, h = 3
+71 out of 178
+tricube, chebyshev, h = 4
+71 out of 178
+tricube, chebyshev, h = 5
+71 out of 178
+tricube, chebyshev, h = 6
+71 out of 178
+tricube, chebyshev, h = 7
+71 out of 178
+tricube, chebyshev, h = 8
+71 out of 178
+tricube, chebyshev, h = 9
+71 out of 178
+tricube, chebyshev, h = 10
+71 out of 178
+tricube, chebyshev, h = 11
+71 out of 178
+tricube, chebyshev, h = 12
+71 out of 178
+tricube, chebyshev, h = 13
+71 out of 178
+tricube, chebyshev, h = 14
+71 out of 178
+tricube, chebyshev, h = 15
+71 out of 178
+tricube, chebyshev, h = 16
+71 out of 178
+tricube, chebyshev, h = 17
+71 out of 178
+tricube, chebyshev, h = 18
+71 out of 178
+tricube, chebyshev, h = 19
+71 out of 178
+gaussian, manhattan, h = 0
+71 out of 178
+gaussian, manhattan, h = 1
+172 out of 178
+gaussian, manhattan, h = 2
+173 out of 178
+gaussian, manhattan, h = 3
+142 out of 178
+gaussian, manhattan, h = 4
+102 out of 178
+gaussian, manhattan, h = 5
+75 out of 178
+gaussian, manhattan, h = 6
+71 out of 178
+gaussian, manhattan, h = 7
+71 out of 178
+gaussian, manhattan, h = 8
+71 out of 178
+gaussian, manhattan, h = 9
+71 out of 178
+gaussian, manhattan, h = 10
+71 out of 178
+gaussian, manhattan, h = 11
+71 out of 178
+gaussian, manhattan, h = 12
+71 out of 178
+gaussian, manhattan, h = 13
+71 out of 178
+gaussian, manhattan, h = 14
+71 out of 178
+gaussian, manhattan, h = 15
+71 out of 178
+gaussian, manhattan, h = 16
+71 out of 178
+gaussian, manhattan, h = 17
+71 out of 178
+gaussian, manhattan, h = 18
+71 out of 178
+gaussian, manhattan, h = 19
+71 out of 178
+gaussian, euclidean, h = 0
+71 out of 178
+gaussian, euclidean, h = 1
+143 out of 178
+gaussian, euclidean, h = 2
+71 out of 178
+gaussian, euclidean, h = 3
+71 out of 178
+gaussian, euclidean, h = 4
+71 out of 178
+gaussian, euclidean, h = 5
+71 out of 178
+gaussian, euclidean, h = 6
+71 out of 178
+gaussian, euclidean, h = 7
+71 out of 178
+gaussian, euclidean, h = 8
+71 out of 178
+gaussian, euclidean, h = 9
+71 out of 178
+gaussian, euclidean, h = 10
+71 out of 178
+gaussian, euclidean, h = 11
+71 out of 178
+gaussian, euclidean, h = 12
+71 out of 178
+gaussian, euclidean, h = 13
+71 out of 178
+gaussian, euclidean, h = 14
+71 out of 178
+gaussian, euclidean, h = 15
+71 out of 178
+gaussian, euclidean, h = 16
+71 out of 178
+gaussian, euclidean, h = 17
+71 out of 178
+gaussian, euclidean, h = 18
+71 out of 178
+gaussian, euclidean, h = 19
+71 out of 178
+gaussian, chebyshev, h = 0
+71 out of 178
+gaussian, chebyshev, h = 1
+72 out of 178
+gaussian, chebyshev, h = 2
+71 out of 178
+gaussian, chebyshev, h = 3
+71 out of 178
+gaussian, chebyshev, h = 4
+71 out of 178
+gaussian, chebyshev, h = 5
+71 out of 178
+gaussian, chebyshev, h = 6
+71 out of 178
+gaussian, chebyshev, h = 7
+71 out of 178
+gaussian, chebyshev, h = 8
+71 out of 178
+gaussian, chebyshev, h = 9
+71 out of 178
+gaussian, chebyshev, h = 10
+71 out of 178
+gaussian, chebyshev, h = 11
+71 out of 178
+gaussian, chebyshev, h = 12
+71 out of 178
+gaussian, chebyshev, h = 13
+71 out of 178
+gaussian, chebyshev, h = 14
+71 out of 178
+gaussian, chebyshev, h = 15
+71 out of 178
+gaussian, chebyshev, h = 16
+71 out of 178
+gaussian, chebyshev, h = 17
+71 out of 178
+gaussian, chebyshev, h = 18
+71 out of 178
+gaussian, chebyshev, h = 19
+71 out of 178
+cosine, manhattan, h = 0
+71 out of 178
+cosine, manhattan, h = 1
+147 out of 178
+cosine, manhattan, h = 2
+175 out of 178
+cosine, manhattan, h = 3
+172 out of 178
+cosine, manhattan, h = 4
+172 out of 178
+cosine, manhattan, h = 5
+154 out of 178
+cosine, manhattan, h = 6
+121 out of 178
+cosine, manhattan, h = 7
+97 out of 178
+cosine, manhattan, h = 8
+79 out of 178
+cosine, manhattan, h = 9
+73 out of 178
+cosine, manhattan, h = 10
+71 out of 178
+cosine, manhattan, h = 11
+71 out of 178
+cosine, manhattan, h = 12
+71 out of 178
+cosine, manhattan, h = 13
+71 out of 178
+cosine, manhattan, h = 14
+71 out of 178
+cosine, manhattan, h = 15
+71 out of 178
+cosine, manhattan, h = 16
+71 out of 178
+cosine, manhattan, h = 17
+71 out of 178
+cosine, manhattan, h = 18
+71 out of 178
+cosine, manhattan, h = 19
+71 out of 178
+cosine, euclidean, h = 0
+71 out of 178
+cosine, euclidean, h = 1
+170 out of 178
+cosine, euclidean, h = 2
+119 out of 178
+cosine, euclidean, h = 3
+74 out of 178
+cosine, euclidean, h = 4
+71 out of 178
+cosine, euclidean, h = 5
+71 out of 178
+cosine, euclidean, h = 6
+71 out of 178
+cosine, euclidean, h = 7
+71 out of 178
+cosine, euclidean, h = 8
+71 out of 178
+cosine, euclidean, h = 9
+71 out of 178
+cosine, euclidean, h = 10
+71 out of 178
+cosine, euclidean, h = 11
+71 out of 178
+cosine, euclidean, h = 12
+71 out of 178
+cosine, euclidean, h = 13
+71 out of 178
+cosine, euclidean, h = 14
+71 out of 178
+cosine, euclidean, h = 15
+71 out of 178
+cosine, euclidean, h = 16
+71 out of 178
+cosine, euclidean, h = 17
+71 out of 178
+cosine, euclidean, h = 18
+71 out of 178
+cosine, euclidean, h = 19
+71 out of 178
+cosine, chebyshev, h = 0
+71 out of 178
+cosine, chebyshev, h = 1
+124 out of 178
+cosine, chebyshev, h = 2
+71 out of 178
+cosine, chebyshev, h = 3
+71 out of 178
+cosine, chebyshev, h = 4
+71 out of 178
+cosine, chebyshev, h = 5
+71 out of 178
+cosine, chebyshev, h = 6
+71 out of 178
+cosine, chebyshev, h = 7
+71 out of 178
+cosine, chebyshev, h = 8
+71 out of 178
+cosine, chebyshev, h = 9
+71 out of 178
+cosine, chebyshev, h = 10
+71 out of 178
+cosine, chebyshev, h = 11
+71 out of 178
+cosine, chebyshev, h = 12
+71 out of 178
+cosine, chebyshev, h = 13
+71 out of 178
+cosine, chebyshev, h = 14
+71 out of 178
+cosine, chebyshev, h = 15
+71 out of 178
+cosine, chebyshev, h = 16
+71 out of 178
+cosine, chebyshev, h = 17
+71 out of 178
+cosine, chebyshev, h = 18
+71 out of 178
+cosine, chebyshev, h = 19
+71 out of 178
+logistic, manhattan, h = 0
+71 out of 178
+logistic, manhattan, h = 1
+175 out of 178
+logistic, manhattan, h = 2
+140 out of 178
+logistic, manhattan, h = 3
+89 out of 178
+logistic, manhattan, h = 4
+71 out of 178
+logistic, manhattan, h = 5
+71 out of 178
+logistic, manhattan, h = 6
+71 out of 178
+logistic, manhattan, h = 7
+71 out of 178
+logistic, manhattan, h = 8
+71 out of 178
+logistic, manhattan, h = 9
+71 out of 178
+logistic, manhattan, h = 10
+71 out of 178
+logistic, manhattan, h = 11
+71 out of 178
+logistic, manhattan, h = 12
+71 out of 178
+logistic, manhattan, h = 13
+71 out of 178
+logistic, manhattan, h = 14
+71 out of 178
+logistic, manhattan, h = 15
+71 out of 178
+logistic, manhattan, h = 16
+71 out of 178
+logistic, manhattan, h = 17
+71 out of 178
+logistic, manhattan, h = 18
+71 out of 178
+logistic, manhattan, h = 19
+71 out of 178
+logistic, euclidean, h = 0
+71 out of 178
+logistic, euclidean, h = 1
+88 out of 178
+logistic, euclidean, h = 2
+71 out of 178
+logistic, euclidean, h = 3
+71 out of 178
+logistic, euclidean, h = 4
+71 out of 178
+logistic, euclidean, h = 5
+71 out of 178
+logistic, euclidean, h = 6
+71 out of 178
+logistic, euclidean, h = 7
+71 out of 178
+logistic, euclidean, h = 8
+71 out of 178
+logistic, euclidean, h = 9
+71 out of 178
+logistic, euclidean, h = 10
+71 out of 178
+logistic, euclidean, h = 11
+71 out of 178
+logistic, euclidean, h = 12
+71 out of 178
+logistic, euclidean, h = 13
+71 out of 178
+logistic, euclidean, h = 14
+71 out of 178
+logistic, euclidean, h = 15
+71 out of 178
+logistic, euclidean, h = 16
+71 out of 178
+logistic, euclidean, h = 17
+71 out of 178
+logistic, euclidean, h = 18
+71 out of 178
+logistic, euclidean, h = 19
+71 out of 178
+logistic, chebyshev, h = 0
+71 out of 178
+logistic, chebyshev, h = 1
+71 out of 178
+logistic, chebyshev, h = 2
+71 out of 178
+logistic, chebyshev, h = 3
+71 out of 178
+logistic, chebyshev, h = 4
+71 out of 178
+logistic, chebyshev, h = 5
+71 out of 178
+logistic, chebyshev, h = 6
+71 out of 178
+logistic, chebyshev, h = 7
+71 out of 178
+logistic, chebyshev, h = 8
+71 out of 178
+logistic, chebyshev, h = 9
+71 out of 178
+logistic, chebyshev, h = 10
+71 out of 178
+logistic, chebyshev, h = 11
+71 out of 178
+logistic, chebyshev, h = 12
+71 out of 178
+logistic, chebyshev, h = 13
+71 out of 178
+logistic, chebyshev, h = 14
+71 out of 178
+logistic, chebyshev, h = 15
+71 out of 178
+logistic, chebyshev, h = 16
+71 out of 178
+logistic, chebyshev, h = 17
+71 out of 178
+logistic, chebyshev, h = 18
+71 out of 178
+logistic, chebyshev, h = 19
+71 out of 178
+sigmoid, manhattan, h = 0
+71 out of 178
+sigmoid, manhattan, h = 1
+174 out of 178
+sigmoid, manhattan, h = 2
+167 out of 178
+sigmoid, manhattan, h = 3
+121 out of 178
+sigmoid, manhattan, h = 4
+94 out of 178
+sigmoid, manhattan, h = 5
+73 out of 178
+sigmoid, manhattan, h = 6
+71 out of 178
+sigmoid, manhattan, h = 7
+71 out of 178
+sigmoid, manhattan, h = 8
+71 out of 178
+sigmoid, manhattan, h = 9
+71 out of 178
+sigmoid, manhattan, h = 10
+71 out of 178
+sigmoid, manhattan, h = 11
+71 out of 178
+sigmoid, manhattan, h = 12
+71 out of 178
+sigmoid, manhattan, h = 13
+71 out of 178
+sigmoid, manhattan, h = 14
+71 out of 178
+sigmoid, manhattan, h = 15
+71 out of 178
+sigmoid, manhattan, h = 16
+71 out of 178
+sigmoid, manhattan, h = 17
+71 out of 178
+sigmoid, manhattan, h = 18
+71 out of 178
+sigmoid, manhattan, h = 19
+71 out of 178
+sigmoid, euclidean, h = 0
+71 out of 178
+sigmoid, euclidean, h = 1
+119 out of 178
+sigmoid, euclidean, h = 2
+71 out of 178
+sigmoid, euclidean, h = 3
+71 out of 178
+sigmoid, euclidean, h = 4
+71 out of 178
+sigmoid, euclidean, h = 5
+71 out of 178
+sigmoid, euclidean, h = 6
+71 out of 178
+sigmoid, euclidean, h = 7
+71 out of 178
+sigmoid, euclidean, h = 8
+71 out of 178
+sigmoid, euclidean, h = 9
+71 out of 178
+sigmoid, euclidean, h = 10
+71 out of 178
+sigmoid, euclidean, h = 11
+71 out of 178
+sigmoid, euclidean, h = 12
+71 out of 178
+sigmoid, euclidean, h = 13
+71 out of 178
+sigmoid, euclidean, h = 14
+71 out of 178
+sigmoid, euclidean, h = 15
+71 out of 178
+sigmoid, euclidean, h = 16
+71 out of 178
+sigmoid, euclidean, h = 17
+71 out of 178
+sigmoid, euclidean, h = 18
+71 out of 178
+sigmoid, euclidean, h = 19
+71 out of 178
+sigmoid, chebyshev, h = 0
+71 out of 178
+sigmoid, chebyshev, h = 1
+72 out of 178
+sigmoid, chebyshev, h = 2
+71 out of 178
+sigmoid, chebyshev, h = 3
+71 out of 178
+sigmoid, chebyshev, h = 4
+71 out of 178
+sigmoid, chebyshev, h = 5
+71 out of 178
+sigmoid, chebyshev, h = 6
+71 out of 178
+sigmoid, chebyshev, h = 7
+71 out of 178
+sigmoid, chebyshev, h = 8
+71 out of 178
+sigmoid, chebyshev, h = 9
+71 out of 178
+sigmoid, chebyshev, h = 10
+71 out of 178
+sigmoid, chebyshev, h = 11
+71 out of 178
+sigmoid, chebyshev, h = 12
+71 out of 178
+sigmoid, chebyshev, h = 13
+71 out of 178
+sigmoid, chebyshev, h = 14
+71 out of 178
+sigmoid, chebyshev, h = 15
+71 out of 178
+sigmoid, chebyshev, h = 16
+71 out of 178
+sigmoid, chebyshev, h = 17
+71 out of 178
+sigmoid, chebyshev, h = 18
+71 out of 178
+sigmoid, chebyshev, h = 19
+71 out of 178
